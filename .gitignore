@@ -1,0 +1,22 @@
+# Python 가상환경
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+data/raw/
+data/processed/
+
+# Training outputs
+outputs/
+
+# Trained models / numpy data
+*.pth
+*.pt
+*.npy
+*.npz
+
+# Environment variables
+.env
